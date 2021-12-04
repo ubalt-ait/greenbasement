@@ -15,13 +15,13 @@ How to set up the system
 
 ## Versions and Contributors
 
-### Version 0
-
-Initial work, not published
-
 ### Version 1
 
 Current system
+
+### Version 0
+
+Initial work, not published
 
 ## Publications
 
