@@ -2,6 +2,17 @@
 
 Short description of the project
 
+## Hardware
+
+Currently we are using the following hardware:
+
+- Raspberry Pi 3
+- Arduino Mega 2560
+
+## Instructions
+
+How to set up the system
+
 ## Versions and Contributors
 
 ### Version 0
@@ -11,13 +22,6 @@ Initial work, not published
 ### Version 1
 
 Current system
-
-## Hardware
-
-Currently we are using the following hardware:
-
-- Raspberry Pi 3
-- Arduino Mega 2560
 
 ## Publications
 
