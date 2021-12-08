@@ -21,17 +21,17 @@ Current system
 
 ### Version 0
 
-Initial work, not published
+The initial design of the system is not published in this repository. However, it is well described in the publications below as they are based on version 0 of Green Basement.
 
 #### Contributors
 
-Environmental Sustainability: Erin Adams, Anna Benet, Amanda Buckler, Lanae Jackson, Chelsea Jones, Hillary Lewis, Regina Minniss, Rebecca Satterfield, Brian Suhr, Colby Warner
+*Environmental Sustainability:* Erin Adams, Anna Benet, Amanda Buckler, Lanae Jackson, Chelsea Jones, Hillary Lewis, Regina Minniss, Rebecca Satterfield, Brian Suhr, Colby Warner
 
-Information Technology: William Hyland, John Manlucu, David Mayes, Torianne Montes-Schiff, Larysa Paliashchuk, Juan Pablo Soto Medico, Aaron Wilt
+*Information Technology:* William Hyland, John Manlucu, David Mayes, Torianne Montes-Schiff, Larysa Paliashchuk, Juan Pablo Soto Medico, Aaron Wilt
 
-Advisors: Wolf Pecher, Giovanni Vincenti
+*Advisors:* Wolf Pecher, Giovanni Vincenti
 
-## Publications
+#### Publications
 
 The following publications are associated with this project:
 
