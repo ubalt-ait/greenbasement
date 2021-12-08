@@ -23,6 +23,14 @@ Current system
 
 Initial work, not published
 
+#### Contributors
+
+Environmental Sustainability: Erin Adams, Anna Benet, Amanda Buckler, Lanae Jackson, Chelsea Jones, Hillary Lewis, Regina Minniss, Rebecca Satterfield, Brian Suhr, Colby Warner
+
+Information Technology: William Hyland, John Manlucu, David Mayes, Torianne Montes-Schiff, Larysa Paliashchuk, Juan Pablo Soto Medico, Aaron Wilt
+
+Advisors: Wolf Pecher, Giovanni Vincenti
+
 ## Publications
 
 The following publications are associated with this project:
