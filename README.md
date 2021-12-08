@@ -15,9 +15,17 @@ How to set up the system
 
 ## Versions and Contributors
 
+The main contacts for this project are Dr. Wolf Pecher (Environmental Sustainability) and Dr. Giovanni Vincenti (Applied Information Technology). They supervised the works of the students listed below as well as contributed to the development of each system.
+
 ### Version 1
 
-Current system
+The system that is currently available in this repository.
+
+#### Contributors
+
+*Environmental Sustainability:* Jonathan Cleary
+
+*Information Technology:* Kaitlyn Baker, Michael Craven, Shawn Forrest, Kevona Sephes
 
 ### Version 0
 
@@ -29,9 +37,7 @@ The initial design of the system is not published in this repository. However, i
 
 *Information Technology:* William Hyland, John Manlucu, David Mayes, Torianne Montes-Schiff, Larysa Paliashchuk, Juan Pablo Soto Medico, Aaron Wilt
 
-*Advisors:* Wolf Pecher, Giovanni Vincenti
-
-#### Publications
+## Publications
 
 The following publications are associated with this project:
 
