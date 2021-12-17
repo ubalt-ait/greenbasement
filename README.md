@@ -8,7 +8,7 @@ This project creates an automated controllable indoor growth system using Arduin
 - Medium-term
   - Build a system that grows enough produce to help the on-campus pantry, which supprts students in need of food
 - Long-term
-  - Create a modular system that can be housed into vacant homes in food deserts, with the goal of helping the community access fresh produce
+  - Create a modular system that can be housed into vacant homes in food deserts, to help the community access fresh produce
 
 ## Hardware
 
