@@ -1,6 +1,14 @@
 # Green Basement
 
-Short description of the project
+This project creates an automated controllable indoor growth system using Arduinos and Raspberry Pis. The goals of the project are the following:
+
+- Short-term
+  - Let computer programming students gain hands-on exprience in a technology that is applied to a different field
+  - Create a system that can be used by Environmental Sustainability students to design and run experiments
+- Medium-term
+  - Build a system that grows enough produce to help the on-campus pantry, which supprts students in need of food
+- Long-term
+  - Create a modular system that can be housed into vacant homes in food deserts, with the goal of helping the community access fresh produce
 
 ## Hardware
 
