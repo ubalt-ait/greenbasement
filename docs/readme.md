@@ -19,3 +19,9 @@ To check the logs of the service: `journalctl -u myapp.service`
 To stop the service: `sudo systemctl stop myapp.service`
 
 To remove the service: `sudo systemctl disable myapp.service`
+
+### List of Services
+
+The following applications will have to run as services:
+
+* myapp, this is the server that handles data storage and retrieval
