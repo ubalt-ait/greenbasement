@@ -10,6 +10,18 @@ This project creates an automated controllable indoor growth system using Arduin
 - Long-term
   - Create a modular system that can be housed into vacant homes in food deserts, to help the community access fresh produce
 
+To cite this work, use the following:
+
+```
+@inproceedings{vincenti2020merging,
+  title={Merging Sustainability and Technology in the Classroom: An Experience Report},
+  author={Vincenti, Giovanni and Pecher, Wolf T},
+  booktitle={Proceedings of the 51st ACM Technical Symposium on Computer Science Education},
+  pages={448--453},
+  year={2020}
+}
+```
+
 ## Hardware
 
 Currently we are using the following hardware:
