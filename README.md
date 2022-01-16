@@ -45,7 +45,7 @@ The system that is currently available in this repository.
 
 *Environmental Sustainability:* Jonathan Cleary
 
-*Information Technology:* Kaitlyn Baker, Michael Craven, Shawn Forrest, Kevona Sephes
+*Applied Information Technology:* Kaitlyn Baker, Michael Craven, Shawn Forrest, Kevona Sephes
 
 ### Version 0
 
@@ -55,7 +55,7 @@ The initial design of the system is not published in this repository. However, i
 
 *Environmental Sustainability:* Erin Adams, Anna Benet, Amanda Buckler, Lanae Jackson, Chelsea Jones, Hillary Lewis, Regina Minniss, Rebecca Satterfield, Brian Suhr, Colby Warner
 
-*Information Technology:* William Hyland, John Manlucu, David Mayes, Torianne Montes-Schiff, Larysa Paliashchuk, Juan Pablo Soto Medico, Aaron Wilt
+*Applied Information Technology:* William Hyland, John Manlucu, David Mayes, Torianne Montes-Schiff, Larysa Paliashchuk, Juan Pablo Soto Medico, Aaron Wilt
 
 ## Publications
 
