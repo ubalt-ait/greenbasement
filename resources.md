@@ -9,3 +9,5 @@ This file contains a collection of resources, including similar projects.
 [Automatic plant watering system with Arduino IoT Cloud](https://www.makerguides.com/automatic-plant-watering-system-with-arduino-iot-cloud/)
 
 [Self Sufficient Automated Greenhouse (Arduino)](https://create.arduino.cc/projecthub/SpyGuy/self-sufficient-automated-greenhouse-51dc4a)
+
+[Smart Indoor Herb Garden (Arduino)](https://www.instructables.com/Smart-Indoor-Herb-Garden/)
