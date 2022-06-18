@@ -7,3 +7,5 @@ This file contains a collection of resources, including similar projects.
 [Homefarm Appliance](https://www.myhomefarm.io/product/appliance/), by [Homefarm](https://www.myhomefarm.io/)
 
 [Automatic plant watering system with Arduino IoT Cloud](https://www.makerguides.com/automatic-plant-watering-system-with-arduino-iot-cloud/)
+
+[Self Sufficient Automated Greenhouse (Arduino)](https://create.arduino.cc/projecthub/SpyGuy/self-sufficient-automated-greenhouse-51dc4a)
