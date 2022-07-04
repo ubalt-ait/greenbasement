@@ -6,6 +6,8 @@ This file contains a collection of resources, including similar projects.
 
 [Homefarm Appliance](https://www.myhomefarm.io/product/appliance/), by [Homefarm](https://www.myhomefarm.io/)
 
+[Rise Garden](https://grow.risegardens.com/rise-gardens-family-garden/)
+
 [Hacker House’s Zero W–powered automated gardener (RPi)](https://www.raspberrypi.com/news/hacker-house-automated-gardener/)
 
 ## Arduino
