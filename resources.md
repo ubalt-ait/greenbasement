@@ -4,11 +4,15 @@ This file contains a collection of resources, including similar projects.
 
 [How to grow plants in space](https://www.nasa.gov/mediacast/how-to-grow-plants-in-space/)
 
+[Hacker House’s Zero W–powered automated gardener (RPi)](https://www.raspberrypi.com/news/hacker-house-automated-gardener/)
+
+## Commercial
+
 [Homefarm Appliance](https://www.myhomefarm.io/product/appliance/), by [Homefarm](https://www.myhomefarm.io/)
 
 [Rise Garden](https://grow.risegardens.com/rise-gardens-family-garden/)
 
-[Hacker House’s Zero W–powered automated gardener (RPi)](https://www.raspberrypi.com/news/hacker-house-automated-gardener/)
+[ZipGrow](https://zipgrow.com/)
 
 ## Arduino
 
